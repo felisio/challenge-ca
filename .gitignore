@@ -4,3 +4,10 @@ dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+semantic.json
+semantic/gulpfile.js
+semantic/src/
+semantic/tasks/
+
+
