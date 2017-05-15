@@ -1,0 +1,1 @@
+export const pathUri = 'https://mock-nr12app.herokuapp.com/'

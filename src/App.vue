@@ -1,5 +1,5 @@
 <template>
-  <div class="ui container">
+  <div class="main ui container">
     <header-fixed />
     <!-- <img src="./assets/logo.png"> -->
     <router-view></router-view>
@@ -17,6 +17,7 @@ export default {
 }
 </script>
 
-<style scoped>
-
+<style lang="stylus" >
+  body
+    background-color: #f1f4f9 !important 
 </style>
