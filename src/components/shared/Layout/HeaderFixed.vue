@@ -1,6 +1,6 @@
 <template>
   <header class="header-fixed">
-    <h2>Header</h2>
+    <h2>Challenge</h2>
   </header>
 </template>
 
@@ -22,4 +22,8 @@ export default {
     height: 3rem
     background-color: #2883e6
     padding: 1rem
+  h2
+    color: #fff
+    margin: .3rem 0 0 0 !important
+    line-height: 0 !important
 </style>
